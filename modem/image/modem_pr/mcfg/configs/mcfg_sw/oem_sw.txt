@@ -1,0 +1,11 @@
+mcfg_sw/generic/china/cmcc/commerci/volte_op/mcfg_sw.mbn
+mcfg_sw/generic/china/cu/commerci/openmkt/mcfg_sw.mbn
+mcfg_sw/generic/common/row/commerci/mcfg_sw.mbn
+mcfg_sw/generic/sea/apt/commerci/mcfg_sw.mbn
+mcfg_sw/generic/sea/chunghwa/commerci/tw/mcfg_sw.mbn
+mcfg_sw/generic/sea/fareasto/commerci/mcfg_sw.mbn
+mcfg_sw/generic/sea/tm/commerci/mcfg_sw.mbn
+mcfg_sw/generic/sea/tstar/commerci/tw/mcfg_sw.mbn
+mcfg_sw/generic/apac/dcm/commerci/mcfg_sw.mbn
+mcfg_sw/generic/apac/kddi/commerci/mcfg_sw.mbn
+mcfg_sw/generic/apac/sbm/commerci/mcfg_sw.mbn
